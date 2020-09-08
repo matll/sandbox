@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2020-09-08T19:48:12.869Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 OPR/70.0.3728.154" version="13.6.9" etag="snldBkL1iJw7vVFfpAnC" type="github"><diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">5ZlZb+M2EMc/jR9r6Lb1uHGOFmiBRVO0jwJN0RKxFClQlI9++g4tSpZMJnAWduHN+iERZ3iI8/95eHgWrqr9i0R1+YfICZsFXr6fhY+zIPCjMIJ/2nLoLFGadoZC0txUOhle6b/EGD1jbWlOmklFJQRTtJ4aseCcYDWxISnFblptI9h01BoVxDK8YsRs6z80V6Wx+p53cvxKaFGaoZexcawR/lZI0XIz3iwIN8dP565Q35ep35QoF7uRKXyahSsphOqeqv2KMB3bPmxdu+c3vMN7S8LVJQ0WXpIkizjBy2i9TkP8i+lhi1hL+ikcX1Qd+uBAD6ADFB52JVXktUZYe3aAAthKVTEo+fB4jAPRI3lQGqaqC1hUFPcOJcW3Ic664UZw9YwqyjQ+fxOZI46M2bDiR0PDlWBCgokLrt9pQxnrTRB9z0vSY592ZPqpEqnIfmQykXohoiJKHqCK8QZLo9ph4KEr706MxD0i5QiPwYgMl8XQ90kbeDDyXChVYEn1xBWRtaQgTpAwGPwhp1t4LPTjQ9tQTpqmd8F4I6+jgflau2vfIRNauouYMN/IrrGLlWOnZnKOr9SHwYm8KTgwlAVOkDjAGYxXBSe2wFmJqmo5VQdL2IlCOWrKQbuRqB8KOkNrwr6KhioqOPgw0dSCQ8eTQg7+/azCWiglqlGFL4wW2qFE3TFU65et9oVejOZis6GYzNuGyKb7a2E3Ju3CXHOGyvPxc520EsZTOqLIpiNKXFnlBmwkNhttA+EHhewM8UrkFmJ9YY74wVGC2izrRshg+ddy3zVWySKZYuWHl2EV3wCrhYXVn6SpBXeuVC8Q1vrngEqaKGTFcc73TdR5ogo8m6h46SAqugFRSztRwcwkYq6dDISqIJWe+aWbn58ktTXdNCG7dcHLqiFUmfHdO5T+YgJl6Ehzsf8/QZlaUD7SgionlI9kS5io36PyM1Gms53gWS1JBeeTJutsdw7X4nzjvgzsNTRywLW8AVz9aXNE118ElxymXhwcgK20RBB/pMibh77PQxhuJZxf5gpejf8gqSs63/inNl2uU2Gc3IIu++bnN76RCNRusWol+TywYMExqdUkH905KnEanqFinxFDVyK6xWbet2+eXphYO1e5r0gqDrm/1Fe3nzwJDVwVEA2SUT0IJ/d+Towif4KW77p+SG20ett10QottJ74lkrB9T7JSdiXnZ79OxebV8PrXPaqwYjMCxgcds5afUV5K9omwwfM3uPxZji4cf1+/JHpZ2hxjVR2tur5YWzz5jpF3uK6y7fvQp8pRxw7l7uJ+g2EppnDoQm28XPSSjEl6C3tnWR9Zx6y5Hnndn1C+n1loCScHuH8ZWoTETuI8D9MBBRPP64dfaNfMMOn/wA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-08T20:05:34.726Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 OPR/70.0.3728.154" etag="MPhW_2EfyGICW3cLLkqR" version="13.6.9" type="github">
+  <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
+    <mxGraphModel dx="4682" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="70666756c84bb93c-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;strokeColor=none;fillColor=#0069D1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="110" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="KlLT7HXoZyxbC3191CJ5-1" value="Niska aktywacja" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#ffffff;fontColor=#0069D1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="620" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KlLT7HXoZyxbC3191CJ5-2" value="Nieprzyjemność" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#ffffff;fontColor=#0069D1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KlLT7HXoZyxbC3191CJ5-3" value="Przyjemność" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#ffffff;fontColor=#0069D1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="780" y="300" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KlLT7HXoZyxbC3191CJ5-5" value="Wysoka aktywacja" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#ffffff;fontColor=#0069D1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="30" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KlLT7HXoZyxbC3191CJ5-7" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="600" as="sourcePoint" />
+            <mxPoint x="530" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KlLT7HXoZyxbC3191CJ5-8" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="360" as="sourcePoint" />
+            <mxPoint x="290" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KlLT7HXoZyxbC3191CJ5-11" value="PRACOHOLIZM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KlLT7HXoZyxbC3191CJ5-12" value="ZAANGAŻOWANIE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KlLT7HXoZyxbC3191CJ5-13" value="WYPALENIE&lt;br&gt;ZAWODOWE" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0069D1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KlLT7HXoZyxbC3191CJ5-14" value="SATYSFAKCJA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KlLT7HXoZyxbC3191CJ5-15" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;zdenerwowany&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;nieprzyjazny&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;poirytowany&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;zły&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;napięty&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="420" y="150" width="100" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KlLT7HXoZyxbC3191CJ5-16" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;podekscytowany&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;entuzjastyczny&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;energiczny&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;szczęśliwy&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;zadowolony&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="100" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KlLT7HXoZyxbC3191CJ5-17" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;przygnębiony&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;ospały&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;zmęczony&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;ponury&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;smutny&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 14px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20color%3D%26quot%3B%23ffffff%26quot%3B%26gt%3Bzdenerwowany%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3Bnieprzyjazny%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3Bpoirytowany%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3Bz%C5%82y%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3Bnapi%C4%99ty%26lt%3Bbr%26gt%3B%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22430%22%20y%3D%22150%22%20width%3D%22100%22%20height%3D%22210%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="420" y="360" width="100" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KlLT7HXoZyxbC3191CJ5-18" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;zadowolony&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;zrelaksowany&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;opanowany&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;spokojny&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="540" y="360" width="100" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KlLT7HXoZyxbC3191CJ5-19" value="SATYSFAKCJA" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0069D1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KlLT7HXoZyxbC3191CJ5-20" value="ZAANGAŻOWANIE" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0069D1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KlLT7HXoZyxbC3191CJ5-21" value="PRACOHOLIZM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0069D1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
